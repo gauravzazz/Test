@@ -4,7 +4,7 @@ import lombok.Data;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
-
+/**this is my sample comment **/
 @Data
 @Entity
 public class Employee {
